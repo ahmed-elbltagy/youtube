@@ -1,3 +1,3 @@
 # YouTube design
-## Demo 
-### https://ahmed-elbltagy.github.io/youtube/
+
+<p> <a href="ahmed-elbltagy.github.io/youtube/">Live Preview</a>.</p>
